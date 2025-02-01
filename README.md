@@ -1,5 +1,5 @@
 # Hello, I'm Mohamad Abou-Hechme
-<a href="https://linkedin.com/mohachme"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/www.linkedin.com/in/mohachme"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
