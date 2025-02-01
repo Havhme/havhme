@@ -3,6 +3,63 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohamad Abou-Hechme | Cybersecurity Enthusiast</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+            color: #666;
+        }
+        .btn {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 10px 20px;
+            background: #0073b1;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        .btn:hover {
+            background: #005f8f;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Mohamad Abou-Hechme</h1>
+        <p>Cybersecurity Enthusiast | Transitioning from Administration & Finance</p>
+        <p>With a background in Business Administration and experience in administrative roles, I am now shifting my focus to cybersecurity. Passionate about networking, security operations, and cloud security.</p>
+        <p>Currently enhancing my skills through hands-on labs and projects.</p>
+        
+        <a href="https://www.linkedin.com/in/mohachme" class="btn" target="_blank">Connect on LinkedIn</a>
+    </div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mohamad Abou-Hechme | Future SOC Analyst</title>
     <style>
         body {
